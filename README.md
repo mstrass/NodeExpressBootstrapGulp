@@ -1,3 +1,18 @@
+Sources
+
+https://github.com/nvm-sh/nvm
+
+https://github.com/uhlryk/my-express-react-seed
+
+https://getbootstrap.com/
+
+https://expressjs.com/
+
+https://pugjs.org/language/attributes.html
+
+
+
+
 # Gulp Boilerplate [![Build Status](https://travis-ci.org/cferdinandi/gulp-boilerplate.svg)](https://travis-ci.org/cferdinandi/gulp-boilerplate)
 
 A boilerplate for building web projects with [Gulp](https://gulpjs.com/). Uses Gulp 4.x.
